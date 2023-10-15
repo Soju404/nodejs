@@ -1,0 +1,9 @@
+{
+    "mysql": {
+        "connectionLimit": 5,
+        "host": "db.xstore-games.shop",
+        "user": "u7_zlH79bkOZ0",
+        "password": "HZf!ChD0FwpEX39xLB72F!KO",
+        "database": "s7_glrp"
+    }
+}
